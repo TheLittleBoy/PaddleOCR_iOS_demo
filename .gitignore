@@ -1,0 +1,13 @@
+.DS_Store/
+bin/
+target/
+gen/
+.svn/
+*.swf
+xcuserdata/
+*.xcuserstate
+xcshareddata/
+opencv2.framework
+models/
+include/
+lib/
